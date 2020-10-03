@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-01-04T23:53:35Z" name="Suite" finished-at="2018-01-04T23:54:06Z" duration-ms="30942">
+    <groups>
+    </groups>
+    <test started-at="2018-01-04T23:53:35Z" name="Test   " finished-at="2018-01-04T23:54:06Z" duration-ms="30942">
+      <class name="com.demoaut.newtours.Testscripts.BookaFlightTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.demoaut.newtours.Testscripts.BookaFlightTest@fa36558]" started-at="2018-01-04T18:53:35Z" name="openBrowser" finished-at="2018-01-04T18:53:42Z" duration-ms="7518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="bookTicket()[pri:0, instance:com.demoaut.newtours.Testscripts.BookaFlightTest@fa36558]" started-at="2018-01-04T18:53:42Z" name="bookTicket" finished-at="2018-01-04T18:53:51Z" duration-ms="8433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicket -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.demoaut.newtours.Testscripts.BookaFlightTest@fa36558]" started-at="2018-01-04T18:53:51Z" name="closeBrowser" finished-at="2018-01-04T18:53:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demoaut.newtours.Testscripts.BookaFlightTest -->
+      <class name="com.demoaut.newtours.Testscripts.ValidateUserTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.demoaut.newtours.Testscripts.ValidateUserTest@672872e1]" started-at="2018-01-04T18:53:51Z" name="openBrowser" finished-at="2018-01-04T18:54:02Z" duration-ms="10693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="userValidation()[pri:0, instance:com.demoaut.newtours.Testscripts.ValidateUserTest@672872e1]" started-at="2018-01-04T18:54:02Z" name="userValidation" finished-at="2018-01-04T18:54:06Z" duration-ms="4232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userValidation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.demoaut.newtours.Testscripts.ValidateUserTest@672872e1]" started-at="2018-01-04T18:54:06Z" name="closeBrowser" finished-at="2018-01-04T18:54:06Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demoaut.newtours.Testscripts.ValidateUserTest -->
+    </test> <!-- Test    -->
+  </suite> <!-- Suite -->
+</testng-results>
